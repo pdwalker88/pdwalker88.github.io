@@ -1,0 +1,97 @@
+.container{
+  border:solid;
+  width:60%;
+  margin: auto;
+  
+}
+
+.flex-container{
+  display:flex;
+  flex-direction:row;
+}
+
+.left{
+  background-color:lightblue;
+  width:40%;
+}
+
+.right{
+  background-color:#EBFAFA;
+  width: 65%;
+  font-family: Lucida Sans;
+  padding-left: 2%;
+}
+
+
+
+.about {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
+
+.contact {
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 0px 75px 5px;
+    font-family: Castellar;
+    font-size: 25px;
+}
+
+.hobbies {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
+
+.goals {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
+
+/*@media screen and (max-width: 768px) {
+.body {
+  min-width: 300px;
+}
+  
+  .contact {
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 5px 75px 5px;
+    font-family: Castellar;
+    font-size: 25px;
+    
+}
+
+.left {
+display: none;
+}
+  
+.right {
+    width: 100%;
+  }
+  
+.about {
+display: none;
+}
+  
+.hobbies {
+visibility: hidden;
+}
+
+}*/
