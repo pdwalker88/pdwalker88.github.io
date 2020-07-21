@@ -12,7 +12,7 @@ body{
     height: auto;
     width: auto;
     padding: 5px 65px 5px;
-    font-family: Gamestation Text;
+    font-family: Garamond;
     font-size: 18px;
 
 }
@@ -24,6 +24,7 @@ body{
     padding: 0px 75px 5px;
     font-family: Castellar;
     font-size: 25px;
+    text-align: center;
 }
 
 .hobbies {
@@ -32,7 +33,7 @@ body{
     height: auto;
     width: auto;
     padding: 5px 65px 5px;
-    font-family: Gamestation Text;
+    font-family: Garamond;
     font-size: 18px;
 }
 
@@ -42,6 +43,26 @@ body{
     height: auto;
     width: auto;
     padding: 5px 65px 5px;
-    font-family: Gamestation Text;
+    font-family: Garamond;
     font-size: 18px;
+}
+
+.bullets {
+    text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+footer {
+    visibility: hidden;
 }

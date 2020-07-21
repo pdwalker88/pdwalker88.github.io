@@ -30,7 +30,7 @@
     height: auto;
     width: auto;
     padding: 5px 65px 5px;
-    font-family: Gamestation Text;
+    font-family: Garamond;
     font-size: 18px;
 }
 
@@ -41,6 +41,7 @@
     padding: 0px 75px 5px;
     font-family: Castellar;
     font-size: 25px;
+    text-align: center;
 }
 
 .hobbies {
@@ -49,7 +50,7 @@
     height: auto;
     width: auto;
     padding: 5px 65px 5px;
-    font-family: Gamestation Text;
+    font-family: Garamond;
     font-size: 18px;
 }
 
@@ -59,39 +60,34 @@
     height: auto;
     width: auto;
     padding: 5px 65px 5px;
-    font-family: Gamestation Text;
+    font-family: Garamond;
     font-size: 18px;
 }
 
-/*@media screen and (max-width: 768px) {
-.body {
-  min-width: 300px;
-}
-  
-  .contact {
-    color: black;
-    height: auto;
-    width: auto;
-    padding: 5px 75px 5px;
-    font-family: Castellar;
-    font-size: 25px;
-    
+.bullets {
+    text-align: center;
 }
 
-.left {
-display: none;
-}
-  
-.right {
-    width: 100%;
-  }
-  
-.about {
-display: none;
-}
-  
-.hobbies {
-visibility: hidden;
+h1 {
+  text-align: center;
 }
 
-}*/
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+footer {
+padding: auto;
+}
+
+.fab{
+padding: 4%;
+}
+
+.fas{
+padding: 4%;
+}
